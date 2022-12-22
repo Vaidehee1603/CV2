@@ -1,12 +1,4 @@
-/* =======================================================================
-Template Name: Dil Hospital
-Author:  SmartEye Adminpanel
-Author URI: www.smarteyeapps.com
-Version: 1.0
-coder name:Prabin Raja
-Description: This Template is created for web template
-======================================================================= */
-/* ===================================== Import Less ================================== */
+
 @font-face {
   font-family: 'mouse-300';
   src: url("../fonts/RobotoSlab-Regular.ttf") format("truetype"); }
@@ -382,4 +374,4 @@ body {
   .rit-cover .profess-cover .progress-bar {
     background-color: #c092e5; }
 
-/*# sourceMappingURL=style.css.map */
+
